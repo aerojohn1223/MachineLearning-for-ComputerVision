@@ -1,1 +1,1 @@
-# MachingLearning-for-ComputerVision
+# MachineLearning-for-ComputerVision
